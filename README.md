@@ -39,5 +39,16 @@
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white)
 
 
+</div><br>
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
+### 💻 Developer Quote
+
+ "Build. Break. Learn. Improve. Repeat. 🚀"
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
